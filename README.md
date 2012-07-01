@@ -1,2 +1,2 @@
-madbranch.github.com
+Madbranch
 ====================
