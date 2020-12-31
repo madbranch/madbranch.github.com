@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/madbranch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adam.labranche.co
+  * I am madbranch (https://keybase.io/madbranch) on keybase.
+  * I have a public key with fingerprint 6850 A6ED CAE8 DE6F 3B18  371D D100 CD0B 8DE8 E392
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205787d2297b27507d7e79c8672cbf5e73793e512e7bf543ca7007631af6d7b4490a",
+      "fingerprint": "6850a6edcae8de6f3b18371dd100cd0b8de8e392",
+      "host": "keybase.io",
+      "key_id": "d100cd0b8de8e392",
+      "kid": "0101365e5dbd56d873205b2629df07c08345e6df3c6b22572b08260516c14f3d21320a",
+      "uid": "39fbac7b5a0824823cfa525576307919",
+      "username": "madbranch"
+    },
+    "service": {
+      "hostname": "adam.labranche.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1609422183,
+  "expire_in": 157680000,
+  "prev": "40927ae72f8142758ee16d1346709427e678fe6dd694da7980665f92f1e68e79",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNxAnicbVJ7UBVVHL6oqFCBIghxC5iVponX7PvsMvQYCmvKgMQQE4Z295y9d3nc
+hXsvr2GsyTBHDE1xEnwN2RCNAcUQgzy0YEgU0gGisQSF4vKGoWxgTDE7S/pf558z
+53e+7zvf9zu/ridWmzzd+k1XHyubGjvq1ttxJs+UPv+zpZiQdVhERBcTmWhlQ1kQ
+OZzpmRokogmSokkOCADStAhkGnAkgAABURF4QCuyyiHAAJFBHEUjgI8so0iAJAHP
+UJLKQyCzrEhKRAShajYLsufYNZsTy/ICR0o8goqEBIh4lZEpgQEUhBRJKpCUcVFA
+jEhjolV3GAxsTpYcKErTcQ0f0lfs/Q/+kW+SYngOcVCGHA8FwOAcMs3TIlRJoJAC
+w3KIhyqj8DJNc4CWSYHmSY7iFYpVGUhTmGD4zluRY0RVlhQgcxKGsQLNKKrE0RyH
+c5JApEQD6EB2m5SNMDpbgrJdsilWYk8Egcv5moKMzhpRHkIkKGVHZUn/wVCUYqTK
+setOXdGz8LXV6cxxRBt0Z1GOgS9AcvpDpXRZs0HcTczIR3aHptuIaAojFadmSFM8
+KbI0jfsZQaDCHM2O0jUDgb0KJF7GOygfS7KkSAMJAVoVKBb/rIAQxUOKYXlgKADE
+A0HFPYK8yEIJiALJ85wq0iqFeAGPAGFky7XpRDSDn3JKFqzp0Cw2yZlnR8Sezo7U
+NSY3T9Na91XGmJk8PTY8Gj74wPtBIlw6uHfH7azqly6g0uAfJ2LLtpacvny54dkr
+cdQ0tbnjme4jbe/7fbu4+unxpnvmwkD/S1+6vC2ZpW+GDgScTtNL36pY3/b4qcr5
+j+p8ntzPtA6fGGigfDO268SNp5I3Vp6I5amG3Ru/+C44cUtmzcIDy2sB2Z30cO7U
+RdY6HfKbRLVl6NMwYn+HecTL+9Yp1/m+kMmtoy5TWHH1ybKWcul7S4W67vquTXEp
+n372Q6RwvzL4yJ17dWF6WHx5UFBYi5vvls6k0DV/rI8HSy9cPVSVXNcelBDs39e7
+a2a48JXUiMXz1bP+gRMhMTHhJUkHILEweV1OyBhvt5tr6gt6bu+sPn689pBX73O1
+3TsPvlFzP1JpSSmI/3Xmn3fG3svrShs6N3CgGcU3lcTdCl0sr/KrCC5u82knF+ZH
+w1Onvjo8si8cbLs0ee1it6N18Eo72Ri1udHjMFdv7XPN/dlyU37+WF2K1jTYOui6
+lnys6q8h61k2JzApZik0v25oe4D51UHy8/xPzqSt1QPku7W/NLsSevflbTsXzK07
++nXDyLS7+ffRb6o9rDF3erJfDpopmHvRL/GsMvuBq6jZEblc7rc8m9sPNgTWD7xe
+v7cw6e+p3VH0yaq46Qvvanff7mAn3H3nbEtjjUJpv6ubSPKLNe9A5uUPN/10Y25V
+z8c3G7PHvfSuWp+AicV/AQ+cynY=
+=doX9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/madbranch
+
+==================================================================
