@@ -6,9 +6,6 @@
     <meta name="author" content="Adam Labranche" />
     <meta property="og:locale" content="en_US">
     <meta name="description" content="Pokémon Evolutions" />
-    <link rel="stylesheet" type="text/css" href="styles/remedy.css" />
-    <link rel="stylesheet" type="text/css" href="styles/minimal.css" />
-
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -5811,8 +5808,8 @@ function onSearchInput() {
 }
     </script>
   </head>
-  <body>
-    <input type="text" id="search-input-text" oninput="onSearchInput()"/>
+  <body style="margin:0;padding:0">
+    <input type="text" id="search-input-text" oninput="onSearchInput()" style="width:100%;margin:0;padding:0"/>
     <code style="white-space: pre;" id="search-output"/>
   </body>
 </html>
